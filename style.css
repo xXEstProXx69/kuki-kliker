@@ -25,3 +25,13 @@
   background-color: #04AA6D;
   color: white;
 }
+
+
+#cookie {
+	top: 50%;
+	left: 50%;
+	position: static;
+}
+#cookie:hover {
+	cursor: pointer;
+}
